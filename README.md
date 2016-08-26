@@ -81,9 +81,19 @@ An app that makes your writing bold and clearer
 [MindMup](https://www.mindmup.com/#m:new)  
 Zero friction free online mind mapping  
 [grammarly - Your writing at its best](grammarly.com)  
-Grammarly makes sure everything you typeis easy to read, effective, and mistake-free.  
+Grammarly makes sure everything you typeis easy to read, effective, and mistake-free. 
+
+### Markdown
+
+[Online Markdown Guide](https://guides.github.com/features/mastering-markdown/)  
+[Printable Markdown cheat sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  
+[MacDown](http://macdown.uranusjr.com/)  
 
 ### Awesome Lists
 
 [github.com/jnv/lists](https://github.com/jnv/lists)  
 [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade)
+
+### Contributing
+
+See [editing](https://help.github.com/articles/editing-files-in-another-user-s-repository/) github files on how to edit files directly on the website - All your need todo is [signup](https://help.github.com/articles/signing-up-for-a-new-github-account/) for a Github account.
