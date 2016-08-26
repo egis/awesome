@@ -15,7 +15,7 @@
 [Paw – The most advanced HTTP client for Mac](https://luckymarmot.com/paw)  
 [Light pillar - Window Management](http://www.lightpillar.com/window-tidy.html)  
 [Alfred - Productivity App for Mac OS X](https://www.alfredapp.com/)  
-Greate for adding Application shortcuts / hotkeys
+Great for adding Application shortcuts / hotkeys
 
 [BetterTouchTool, BTT Remote, BetterSnapTool and more](https://www.boastr.net/)  
 Use to override the new unwanted maximise full screen functionality
@@ -27,6 +27,7 @@ Use to override the new unwanted maximise full screen functionality
 [Explainshell - type a command-line to see the help text](http://www.explainshell.com/)  
 [DevDocs](http://devdocs.io/)  
 [RegExr: Learn, Build, & Test RegEx](http://regexr.com/)  
+[crontab guru - the simple and quick editor for crontab expressions](http://crontab.guru)  
 [Charles Web Debugging Proxy • HTTP Monitor / HTTP Proxy / HTTPS & SSL Proxy / Reverse Proxy](https://www.charlesproxy.com/)  
 [Fiddler2 - Capture HTTP Session](https://www.telerik.com/download/fiddler/fiddler2)
 
@@ -42,6 +43,12 @@ Use to override the new unwanted maximise full screen functionality
 [FullContact - All your contacts in one place & automatically up-to-date](fullcontact.com)  
 [Evercontact: Keep your address book up-to-date](http://www.evercontact.com/index.html)
 
+### Development Tools
+
+[devd - A local webserver for developers](https://github.com/cortesi/devd)  
+[chokidar - Run a command when a file changes](https://github.com/kimmobrunfeldt/chokidar-cli)
+[Devtools Remote - Debug your browser tabs remotely](https://devtoolsremote.com/)
+[Overcommit - A fully extendable and configurable git hook manager](https://github.com/brigade/overcommit)
 
 ### Collaboration
 [Instant terminal sharing](https://tmate.io/)  
@@ -56,7 +63,6 @@ Use to override the new unwanted maximise full screen functionality
 [Hemingway App makes your writing bold and clear](http://www.hemingwayapp.com/)  
 [Breakdown notes](http://breakdown-notes.herokuapp.com/)  
 [MindMup - Zero friction free online mind mapping](https://www.mindmup.com/#m:new)
-
 
 ### Awesome Lists
 
