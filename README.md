@@ -107,3 +107,19 @@ To check history network activity: [vnstat](http://humdi.net/vnstat/man/vnstat.h
 Alternatives to top: htop, [dstat](http://dag.wiee.rs/home-made/dstat/), [glances](https://github.com/nicolargo/glances)  
 To keep restarting a process when it ends: [psy](https://github.com/substack/psy)  
 
+### Fortigate
+[CLI](http://docs-legacy.fortinet.com/fgt/handbook/cli_html/index.html)
+
+Packet Sniffing: 
+```
+diagnose sniffer packet any "host 191.9.110.207 or host 10.0.1.2 
+diag sys session list
+```
+Ping: `execute ping x.x.x.x`  
+System Status: `get sys perf top` or `get sys perf status`  
+Kill a service: `diag sys kill 11 {pid}`  
+Restart: `execute reboot`  
+
+
+
+
