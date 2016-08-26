@@ -1,5 +1,8 @@
 ## A curated list of software tools and services 
 
+### Contributing
+
+See [editing](https://help.github.com/articles/editing-files-in-another-user-s-repository/) github files on how to edit files directly on the website - All your need todo is [signup](https://help.github.com/articles/signing-up-for-a-new-github-account/) for a Github account.
 
 ### Windows
 
@@ -16,7 +19,6 @@
 [Light pillar - Window Management](http://www.lightpillar.com/window-tidy.html)  
 [Alfred - Productivity App for Mac OS X](https://www.alfredapp.com/)  
 Great for adding Application shortcuts / hotkeys
-
 [BetterTouchTool, BTT Remote, BetterSnapTool and more](https://www.boastr.net/)  
 Use to override the new unwanted maximise full screen functionality
 
@@ -54,16 +56,7 @@ All your contacts in one place & automatically up-to-date
 [Evercontact](http://www.evercontact.com/index.html)  
 Keep your address book up-to-date  
 
-### Development Tools
 
-[devd ](https://github.com/cortesi/devd)  
-A local webserver for developers  
-[chokidar](https://github.com/kimmobrunfeldt/chokidar-cli)  
-Run a command when a file changes  
-[Devtools Remote](https://devtoolsremote.com/)  
-Debug your browser tabs remotely  
-[Overcommit](https://github.com/brigade/overcommit)  
-A fully extendable and configurable git hook manager
 
 ### Collaboration
 [Instant terminal sharing](https://tmate.io/)  
@@ -94,6 +87,23 @@ Grammarly makes sure everything you typeis easy to read, effective, and mistake-
 [github.com/jnv/lists](https://github.com/jnv/lists)  
 [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade)
 
-### Contributing
+### Development Tools
 
-See [editing](https://help.github.com/articles/editing-files-in-another-user-s-repository/) github files on how to edit files directly on the website - All your need todo is [signup](https://help.github.com/articles/signing-up-for-a-new-github-account/) for a Github account.
+[devd ](https://github.com/cortesi/devd)  
+A local webserver for developers  
+[chokidar](https://github.com/kimmobrunfeldt/chokidar-cli)  
+Run a command when a file changes  
+[Devtools Remote](https://devtoolsremote.com/)  
+Debug your browser tabs remotely  
+[Overcommit](https://github.com/brigade/overcommit)  
+A fully extendable and configurable git hook manager
+
+### Linux
+#### Networking
+To capture network traffic: [justsniffer]( http://justniffer.sourceforge.net) or [tcpdump](http://www.thegeekstuff.com/2010/08/tcpdump-command-examples/)  
+To check current network activity: iftop  
+To check history network activity: [vnstat](http://humdi.net/vnstat/man/vnstat.html)  
+#### Monitoring
+Alternatives to top: htop, [dstat](http://dag.wiee.rs/home-made/dstat/), [glances](https://github.com/nicolargo/glances)  
+To keep restarting a process when it ends: [psy](https://github.com/substack/psy)  
+
