@@ -23,32 +23,47 @@ Use to override the new unwanted maximise full screen functionality
 
 ### Help
 
-[Showthedocs - browse documentation by pasting code/query](http://showthedocs.com/)  
-[Explainshell - type a command-line to see the help text](http://www.explainshell.com/)  
+[Showthedocs](http://showthedocs.com/)  
+browse documentation by pasting code/query  
+[Explainshell](http://www.explainshell.com/)  
+type a command-line to see the help text  
 [DevDocs](http://devdocs.io/)  
 [RegExr: Learn, Build, & Test RegEx](http://regexr.com/)  
-[crontab guru - the simple and quick editor for crontab expressions](http://crontab.guru)  
-[Charles Web Debugging Proxy • HTTP Monitor / HTTP Proxy / HTTPS & SSL Proxy / Reverse Proxy](https://www.charlesproxy.com/)  
-[Fiddler2 - Capture HTTP Session](https://www.telerik.com/download/fiddler/fiddler2)
+[crontab guru](http://crontab.guru)  
+the simple and quick editor for crontab expressions  
+[Charles](https://www.charlesproxy.com/)  
+Web Debugging Proxy • HTTP Monitor / HTTP Proxy / HTTPS & SSL Proxy / Reverse Proxy  
+[Fiddler2](https://www.telerik.com/download/fiddler/fiddler2)  
+ Capture HTTP Session  
 
 ### Screenshot / Screencasting
 
-[Screencastify - Chrome extension for Screen Video Recording](https://www.screencastify.com/)  
-[asciinema - Record and share your terminal sessions, the right way](https://asciinema.org/)  
-[Clarify - Perfect for when screenshots will speak louder than words](http://www.clarify-it.com/)  
+[Screencastify](https://www.screencastify.com/)  
+Chrome extension for Screen Video Recording  
+[asciinema](https://asciinema.org/)  
+Record and share your terminal sessions, the right way  
+[Clarify](http://www.clarify-it.com/)  
+Perfect for when screenshots will speak louder than words  
 [CamStudio (Windows)](http://camstudio.org/)
 
 ### Sales Tools
-[Mixmax - The productivity suite for sales, Track, automate, and enhance your emails](https://mixmax.com/)  
-[FullContact - All your contacts in one place & automatically up-to-date](fullcontact.com)  
-[Evercontact: Keep your address book up-to-date](http://www.evercontact.com/index.html)
+[Mixmax](https://mixmax.com/)  
+The productivity suite for sales, Track, automate, and enhance your emails  
+[FullContact](fullcontact.com)  
+All your contacts in one place & automatically up-to-date  
+[Evercontact](http://www.evercontact.com/index.html)  
+Keep your address book up-to-date  
 
 ### Development Tools
 
-[devd - A local webserver for developers](https://github.com/cortesi/devd)  
-[chokidar - Run a command when a file changes](https://github.com/kimmobrunfeldt/chokidar-cli)
-[Devtools Remote - Debug your browser tabs remotely](https://devtoolsremote.com/)
-[Overcommit - A fully extendable and configurable git hook manager](https://github.com/brigade/overcommit)
+[devd ](https://github.com/cortesi/devd)  
+A local webserver for developers  
+[chokidar](https://github.com/kimmobrunfeldt/chokidar-cli)  
+Run a command when a file changes  
+[Devtools Remote](https://devtoolsremote.com/)  
+Debug your browser tabs remotely  
+[Overcommit](https://github.com/brigade/overcommit)  
+A fully extendable and configurable git hook manager
 
 ### Collaboration
 [Instant terminal sharing](https://tmate.io/)  
@@ -60,9 +75,13 @@ Use to override the new unwanted maximise full screen functionality
 
 ### Notes / Mind mapping
 
-[Hemingway App makes your writing bold and clear](http://www.hemingwayapp.com/)  
+[Hemingway](http://www.hemingwayapp.com/)    
+An app that makes your writing bold and clearer  
 [Breakdown notes](http://breakdown-notes.herokuapp.com/)  
-[MindMup - Zero friction free online mind mapping](https://www.mindmup.com/#m:new)
+[MindMup](https://www.mindmup.com/#m:new)  
+Zero friction free online mind mapping  
+[grammarly - Your writing at its best](grammarly.com)  
+Grammarly makes sure everything you typeis easy to read, effective, and mistake-free.  
 
 ### Awesome Lists
 
