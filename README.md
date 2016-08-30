@@ -1,5 +1,7 @@
 ## A curated list of software tools and services 
 
+See also [CLI Cookbook](cli)  
+
 ### Contributing
 
 See [editing](https://help.github.com/articles/editing-files-in-another-user-s-repository/) github files on how to edit files directly on the website - All your need todo is [signup](https://help.github.com/articles/signing-up-for-a-new-github-account/) for a Github account.
@@ -13,7 +15,6 @@ See [editing](https://help.github.com/articles/editing-files-in-another-user-s-r
 [NTLite - Slipstream Windows Installation ISO's](https://www.ntlite.com)  
 [NirCmd - Small Utilities](http://www.nirsoft.net/utils/nircmd.html?2)
 
-
 ### MacOSX
 [Paw – The most advanced HTTP client for Mac](https://luckymarmot.com/paw)  
 [Light pillar - Window Management](http://www.lightpillar.com/window-tidy.html)  
@@ -22,13 +23,11 @@ Great for adding Application shortcuts / hotkeys
 [BetterTouchTool, BTT Remote, BetterSnapTool and more](https://www.boastr.net/)  
 Use to override the new unwanted maximise full screen functionality
 
-
 ### Productivity
 
 [TripMode](https://www.tripmode.ch/) lets you control which apps can use the internet. Especially useful when you're working on a cellular/metered connection.
 
 [MobileDay](https://mobileday.com/) on your phone and give it access to your Google Calendar it can dial into conference calls for you. It is very good at detecting the number and password from the calendar invite.
-
 
 [Calendly](https://calendly.com/) connects to your Google calendar so people can book a time with you without having a Google Account.
 
@@ -66,7 +65,6 @@ The productivity suite for sales, Track, automate, and enhance your emails
 All your contacts in one place & automatically up-to-date  
 [Evercontact](http://www.evercontact.com/index.html)  
 Keep your address book up-to-date  
-
 
 
 ### Collaboration
@@ -108,29 +106,3 @@ Run a command when a file changes
 Debug your browser tabs remotely  
 [Overcommit](https://github.com/brigade/overcommit)  
 A fully extendable and configurable git hook manager
-
-### Linux
-#### Networking
-To capture network traffic: [justsniffer]( http://justniffer.sourceforge.net) or [tcpdump](http://www.thegeekstuff.com/2010/08/tcpdump-command-examples/)  
-To check current network activity: iftop  
-To check history network activity: [vnstat](http://humdi.net/vnstat/man/vnstat.html)  
-#### Monitoring
-Alternatives to top: htop, [dstat](http://dag.wiee.rs/home-made/dstat/), [glances](https://github.com/nicolargo/glances)  
-To keep restarting a process when it ends: [psy](https://github.com/substack/psy)  
-
-### Fortigate
-[CLI](http://docs-legacy.fortinet.com/fgt/handbook/cli_html/index.html)
-
-Packet Sniffing: 
-```
-diagnose sniffer packet any "host 191.9.110.207 or host 10.0.1.2 
-diag sys session list
-```
-Ping: `execute ping x.x.x.x`  
-System Status: `get sys perf top` or `get sys perf status`  
-Kill a service: `diag sys kill 11 {pid}`  
-Restart: `execute reboot`  
-
-
-
-
