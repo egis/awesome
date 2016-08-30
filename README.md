@@ -1,6 +1,6 @@
 ## A curated list of software tools and services 
 
-See also [CLI Cookbook](cli)  
+See also [CLI Cookbook](cli.md)  
 
 ### Contributing
 
