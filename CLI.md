@@ -1,4 +1,7 @@
 ### Linux
+
+[Art of the command line](https://github.com/jlevy/the-art-of-command-line)  
+
 #### Networking
 To capture network traffic: [justsniffer]( http://justniffer.sourceforge.net) or [tcpdump](http://www.thegeekstuff.com/2010/08/tcpdump-command-examples/)  
 To check current network activity: iftop  
@@ -24,4 +27,10 @@ Restart: `execute reboot`
 
 To list java processes: `jps`  
 To take a stack trace: `jstack <pid>`  
-To take a memory dump: `jmap  -dump:format=b,file=heap.binz`  
+To take a memory dump: `jmap  -dump:format=b,file=heap.bin`  
+
+### Performance Monitoring
+
+[www.brendangregg.com/usemethod.html](http://www.brendangregg.com/usemethod.html)  
+[www.brendangregg.com/linuxperf.html](http://www.brendangregg.com/usemethod.html)  
+[Linux Performance Analysis in 60 seconds)([http://techblog.netflix.com/2015/11/linux-performance-analysis-in-60s.html))
