@@ -51,11 +51,11 @@ Web Debugging Proxy • HTTP Monitor / HTTP Proxy / HTTPS & SSL Proxy / Reverse 
 
 ### Screenshot / Screencasting
 
-[MacOSX] [imgur-screenshot](https://github.com/jomo/imgur-screenshot)  
-To use as the default screenshot tool, and auto delete after 1 hour:  
-1. `brew update && brew install imgur-screenshot`
-1. Uncheck Screen shots > Save picture of selected area under System Preferences > Keyboard 
-1. Then using alfred rebind `cmd+shift+4` to `/usr/local/bin/imgur-screenshot.sh -d 3600 -o false` 
+*[MacOSX]* [imgur-screenshot](https://github.com/jomo/imgur-screenshot)  
+To use as the default screenshot tool, and auto delete after 1 hour:
+1. `brew update && brew install imgur-screenshot`  
+2. Uncheck Screen shots > Save picture of selected area under System Preferences > Keyboard  
+3. Then using alfred rebind `cmd+shift+4` to `/usr/local/bin/imgur-screenshot.sh -d 3600 -o false`  
 [Screencastify](https://www.screencastify.com/)  
 Chrome extension for Screen Video Recording  
 [asciinema](https://asciinema.org/)  
