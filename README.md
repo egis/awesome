@@ -1,6 +1,7 @@
 ## A curated list of software tools and services 
 
 See also [CLI Cookbook](CLI.md)  
+See also [DEV Cookbook](DEV.md)  
 
 ### Contributing
 
@@ -8,32 +9,24 @@ See [editing](https://help.github.com/articles/editing-files-in-another-user-s-r
 
 ### Windows
 
-[Babun - a windows shell you will love!](https://babun.github.io/)  
-[NirCmd - Windows command line tool](http://www.nirsoft.net/utils/nircmd.html?2)  
 [Ninite - Install and update all your programs at once](https://ninite.com/)  
 [Classic Shell - Start menu and other Windows enhancements](http://www.classicshell.net/)    
 [NTLite - Slipstream Windows Installation ISO's](https://www.ntlite.com)  
-[NirCmd - Small Utilities](http://www.nirsoft.net/utils/nircmd.html?2)
 [Just-install.it](http://just-install.it/)
 
 ### MacOSX
-[Paw – The most advanced HTTP client for Mac](https://luckymarmot.com/paw)  
+
 [Light pillar - Window Management](http://www.lightpillar.com/window-tidy.html)  
 [Alfred - Productivity App for Mac OS X](https://www.alfredapp.com/)  
-Great for adding Application shortcuts / hotkeys
+Great for adding Application shortcuts / hotkeys  
 [BetterTouchTool, BTT Remote, BetterSnapTool and more](https://www.boastr.net/)  
 Use to override the new unwanted maximise full screen functionality
-
 
 ### Productivity
 
 [TripMode](https://www.tripmode.ch/) lets you control which apps can use the internet. Especially useful when you're working on a cellular/metered connection.
-
 [MobileDay](https://mobileday.com/) on your phone and give it access to your Google Calendar it can dial into conference calls for you. It is very good at detecting the number and password from the calendar invite.
-
-[Calendly](https://calendly.com/) connects to your Google calendar so people can book a time with you without having a Google Account.
-
-[Calendly Chrome Extension](https://chrome.google.com/webstore/detail/google-calendar-guests-mo/hjhicmeghjagaicbkmhmbbnibhbkcfdb?hl=en) will allow guests to modify calendar appointments by default.
+[Calendly](https://calendly.com/) connects to your Google calendar so people can book a time with you without having a Google Account.  [Calendly Chrome Extension](https://chrome.google.com/webstore/detail/google-calendar-guests-mo/hjhicmeghjagaicbkmhmbbnibhbkcfdb?hl=en) will allow guests to modify calendar appointments by default.
 
 ### Help
 
@@ -45,17 +38,14 @@ type a command-line to see the help text
 [RegExr: Learn, Build, & Test RegEx](http://regexr.com/)  
 [crontab guru](http://crontab.guru)  
 the simple and quick editor for crontab expressions  
-[Charles](https://www.charlesproxy.com/)  
-Web Debugging Proxy • HTTP Monitor / HTTP Proxy / HTTPS & SSL Proxy / Reverse Proxy  
 [Fiddler2](https://www.telerik.com/download/fiddler/fiddler2)  
- Capture HTTP Session  
 
 ### Screenshot / Screencasting
 
 *[MacOSX]* [imgur-screenshot](https://github.com/jomo/imgur-screenshot)  
 To use as the default screenshot tool, and auto delete after 1 hour:  
 1. `brew update && brew install imgur-screenshot`  
-2. Uncheck Screen shots > Save picture of selected area under System Preferences > Keyboard  
+2. Uncheck Screen shots > Save picture of selected area under `System Preferences > Keyboard`   
 3. Then using alfred rebind `cmd+shift+4` to `/usr/local/bin/imgur-screenshot.sh -d 3600 -o false`   
 [Screencastify](https://www.screencastify.com/)  
 Chrome extension for Screen Video Recording  
@@ -80,7 +70,7 @@ Keep your address book up-to-date
 
 ### Concepts
 
-[reWork by Google](https://rework.withgoogle.com)
+[reWork by Google](https://rework.withgoogle.com)  
 [Mental Models](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.cnnfg52eb)
 
 ### Notes / Mind mapping
