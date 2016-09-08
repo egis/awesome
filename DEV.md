@@ -1,4 +1,9 @@
 
+## Learning
+
+[devasts](https://www.devcasts.io) 
+[nodecasts](https://courses.nodecasts.io/courses)  
+
 ## Guides
 
 [CSS Guidelines](http://cssguidelin.es/)  
@@ -20,6 +25,7 @@ A fully extendable and configurable git hook manager
 [Remote chrome debugging](https://developer.chrome.com/devtools/docs/debugging-clients#chrome-remote-interface)  
 [kaleidoscopeapp](http://www.kaleidoscopeapp.com/)  
 [Insomnia REST][https://insomnia.rest/]  
+[Paw – The most advanced HTTP client for Mac](https://luckymarmot.com/paw)   
 
 
 
