@@ -14,6 +14,7 @@ See [editing](https://help.github.com/articles/editing-files-in-another-user-s-r
 [Classic Shell - Start menu and other Windows enhancements](http://www.classicshell.net/)    
 [NTLite - Slipstream Windows Installation ISO's](https://www.ntlite.com)  
 [NirCmd - Small Utilities](http://www.nirsoft.net/utils/nircmd.html?2)
+[Just-install.it](http://just-install.it/)
 
 ### MacOSX
 [Paw – The most advanced HTTP client for Mac](https://luckymarmot.com/paw)  
@@ -52,10 +53,10 @@ Web Debugging Proxy • HTTP Monitor / HTTP Proxy / HTTPS & SSL Proxy / Reverse 
 ### Screenshot / Screencasting
 
 *[MacOSX]* [imgur-screenshot](https://github.com/jomo/imgur-screenshot)  
-To use as the default screenshot tool, and auto delete after 1 hour:
+To use as the default screenshot tool, and auto delete after 1 hour:  
 1. `brew update && brew install imgur-screenshot`  
 2. Uncheck Screen shots > Save picture of selected area under System Preferences > Keyboard  
-3. Then using alfred rebind `cmd+shift+4` to `/usr/local/bin/imgur-screenshot.sh -d 3600 -o false`  
+3. Then using alfred rebind `cmd+shift+4` to `/usr/local/bin/imgur-screenshot.sh -d 3600 -o false`   
 [Screencastify](https://www.screencastify.com/)  
 Chrome extension for Screen Video Recording  
 [asciinema](https://asciinema.org/)  
@@ -80,6 +81,7 @@ Keep your address book up-to-date
 ### Concepts
 
 [reWork by Google](https://rework.withgoogle.com)
+[Mental Models](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.cnnfg52eb)
 
 ### Notes / Mind mapping
 
@@ -101,14 +103,3 @@ Grammarly makes sure everything you typeis easy to read, effective, and mistake-
 
 [github.com/jnv/lists](https://github.com/jnv/lists)  
 [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade)
-
-### Development Tools
-
-[devd ](https://github.com/cortesi/devd)  
-A local webserver for developers  
-[chokidar](https://github.com/kimmobrunfeldt/chokidar-cli)  
-Run a command when a file changes  
-[Devtools Remote](https://devtoolsremote.com/)  
-Debug your browser tabs remotely  
-[Overcommit](https://github.com/brigade/overcommit)  
-A fully extendable and configurable git hook manager
