@@ -2,6 +2,28 @@
 
 [Art of the command line](https://github.com/jlevy/the-art-of-command-line)  
 
+
+## Windows
+[Babun - a windows shell you will love!](https://babun.github.io/)  
+[NirCmd - Windows command line tool](http://www.nirsoft.net/utils/nircmd.html?2)  
+
+
+## ZSH
+
+[dotfiles](http://github.com/egis/dotfiles)  
+[commandlinepoweruser](http://commandlinepoweruser.com/)  
+[zsh tips](http://www.rayninfo.co.uk/tips/zshtips.html)  
+
+## Learning
+
+[linuxjourney](https://linuxjourney.com/)  
+[sysadmincasts](https://sysadmincasts.com/)  
+[servers for hackers](https://serversforhackers.com)  
+[pgexercises](https://pgexercises.com/)  
+[shortcutfoo](https://www.shortcutfoo.com/)  
+[docker cheatsheet](https://github.com/wsargent/docker-cheat-sheet)  
+
+
 #### Networking
 To capture network traffic: [justsniffer]( http://justniffer.sourceforge.net) or [tcpdump](http://www.thegeekstuff.com/2010/08/tcpdump-command-examples/)  
 To check current network activity: iftop  
