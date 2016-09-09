@@ -29,7 +29,9 @@ A fully extendable and configurable git hook manager
 
 
 
-## Github
+## Git /  Github
+
+[ohshitgit](http://ohshitgit.com/)  
 
 
 ### Creating an account
