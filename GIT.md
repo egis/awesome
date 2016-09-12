@@ -6,10 +6,10 @@
 
 ### Videos (all below 10m)
 
-[What is github (6m)](https://www.youtube.com/watch?v=VUaBfYCmJls)
-[Colloboration](https://www.youtube.com/watch?v=SCZF6I-Rc4I)
-[Pull Requests](https://www.youtube.com/watch?v=d5wpJ5VimSU)
-[Forking](https://www.youtube.com/watch?v=5oJHRbqEofs)
+[What is github (6m)](https://www.youtube.com/watch?v=VUaBfYCmJls)  
+[Colloboration](https://www.youtube.com/watch?v=SCZF6I-Rc4I)  
+[Pull Requests](https://www.youtube.com/watch?v=d5wpJ5VimSU)  
+[Forking](https://www.youtube.com/watch?v=5oJHRbqEofs)  
 
 
 
