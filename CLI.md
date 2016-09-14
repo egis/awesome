@@ -15,7 +15,8 @@
 [zsh tips](http://www.rayninfo.co.uk/tips/zshtips.html)  
 
 ## Learning
-
+[command line power user](http://commandlinepoweruser.com/)  
+A video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.  
 [linuxjourney](https://linuxjourney.com/)  
 [sysadmincasts](https://sysadmincasts.com/)  
 [servers for hackers](https://serversforhackers.com)  
