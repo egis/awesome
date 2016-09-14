@@ -2,6 +2,7 @@
 
 See also [CLI Cookbook](CLI.md)  
 See also [DEV Cookbook](DEV.md)  
+See also [GIT Cookbook](GIT.md)
 
 ### Contributing
 
@@ -84,6 +85,10 @@ Zero friction free online mind mapping
 Grammarly makes sure everything you typeis easy to read, effective, and mistake-free. 
 
 ### Markdown
+
+[Mastering Markdown](http://masteringmarkdown.com/)  
+A quick 34 minute mini course for anyone who is looking to learn markdown for the first time, or fill in any gaps along the way. Markdown is a very simple language and can be easily mastered in under an hour.  
+
 
 [Online Markdown Guide](https://guides.github.com/features/mastering-markdown/)  
 [Printable Markdown cheat sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  
