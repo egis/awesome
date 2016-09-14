@@ -12,7 +12,6 @@
 [Forking](https://www.youtube.com/watch?v=5oJHRbqEofs)  
 
 
-
 ### Creating an account
 Video: [How to create an account](https://www.youtube.com/watch?v=ezxRcdJ8glM)
 
@@ -26,3 +25,9 @@ Video: [How to create an account](https://www.youtube.com/watch?v=ezxRcdJ8glM)
 
 ###  GUI Clients
 * [Git-Kraken](https://www.gitkraken.com/)
+* 
+
+### Cookbook
+
+Rollback to a specific commit:
+`git reset --hard <old-commit-id>`
