@@ -20,34 +20,33 @@ See [editing](https://help.github.com/articles/editing-files-in-another-user-s-r
 [Light pillar - Window Management](http://www.lightpillar.com/window-tidy.html)  
 [Alfred - Productivity App for Mac OS X](https://www.alfredapp.com/)  
 Great for adding Application shortcuts / hotkeys  
-[BetterTouchTool, BTT Remote, BetterSnapTool and more](https://www.boastr.net/)  
+[BetterTouchToo](https://www.boastr.net/)  
 Use to override the new unwanted maximise full screen functionality
 
 ### Productivity
 
-[TripMode](https://www.tripmode.ch/) lets you control which apps can use the internet. Especially useful when you're working on a cellular/metered connection.
-[MobileDay](https://mobileday.com/) on your phone and give it access to your Google Calendar it can dial into conference calls for you. It is very good at detecting the number and password from the calendar invite.
-[Calendly](https://calendly.com/) connects to your Google calendar so people can book a time with you without having a Google Account.  [Calendly Chrome Extension](https://chrome.google.com/webstore/detail/google-calendar-guests-mo/hjhicmeghjagaicbkmhmbbnibhbkcfdb?hl=en) will allow guests to modify calendar appointments by default.
+[TripMode](https://www.tripmode.ch/) lets you control which apps can use the internet. Especially useful when you're working on a cellular/metered connection.  
+[MobileDay](https://mobileday.com/) on your phone and give it access to your Google Calendar it can dial into conference calls for you. It is very good at detecting the number and password from the calendar invite.  
+[Calendly](https://calendly.com/) connects to your Google calendar so people can book a time with you without having a Google Account.
+[Calendly Chrome Extension](https://chrome.google.com/webstore/detail/google-calendar-guests-mo/hjhicmeghjagaicbkmhmbbnibhbkcfdb?hl=en)   will allow guests to modify calendar appointments by default.
+[The Ultimello](https://chrome.google.com/webstore/detail/ultimello-the-features-pa/hahbfgjfimnmogoinnenhheepfcphnmm)  
+The Ultimello is intended to extend the Trello application with some useful features.  
 
-### Help
 
-[Showthedocs](http://showthedocs.com/)  
-browse documentation by pasting code/query  
-[Explainshell](http://www.explainshell.com/)  
-type a command-line to see the help text  
-[DevDocs](http://devdocs.io/)  
-[RegExr: Learn, Build, & Test RegEx](http://regexr.com/)  
-[crontab guru](http://crontab.guru)  
-the simple and quick editor for crontab expressions  
-[Fiddler2](https://www.telerik.com/download/fiddler/fiddler2)  
+### Marketing
+
+[25 emails you should send to your users](https://medium.com/@aytekintank/email-patterns-for-web-apps-c6303f3b6e8c#.dyj3fs5ku)  
+[The essential list of startup marketing resources](https://ryangum.com/startup-marketing-resources/)  
+[The best of SaaStr](https://www.saastr.com/the-best-of-saastr/)  
+[Enterprise Sales Guide](http://www.enterprisesales.nyc/)  
+[Beginners Guide to SEO](https://moz.com/beginners-guide-to-seo)  
+[firstround.com](http://firstround.com/review/)  
+[social triggers)(http://socialtriggers.com/)  
+[blog.close.io](http://blog.close.io/)  
+
 
 ### Screenshot / Screencasting
 
-*[MacOSX]* [imgur-screenshot](https://github.com/jomo/imgur-screenshot)  
-To use as the default screenshot tool, and auto delete after 1 hour:  
-1. `brew update && brew install imgur-screenshot`  
-2. Uncheck Screen shots > Save picture of selected area under `System Preferences > Keyboard`   
-3. Then using alfred rebind `cmd+shift+4` to `/usr/local/bin/imgur-screenshot.sh -d 3600 -o false`   
 [Screencastify](https://www.screencastify.com/)  
 Chrome extension for Screen Video Recording  
 [asciinema](https://asciinema.org/)  
@@ -63,12 +62,8 @@ The productivity suite for sales, Track, automate, and enhance your emails
 All your contacts in one place & automatically up-to-date  
 [Evercontact](http://www.evercontact.com/index.html)  
 Keep your address book up-to-date  
-
-
-### Collaboration
-[Instant terminal sharing](https://tmate.io/)  
-[Floobits: Cross-editor real-time collaboration](https://floobits.com/) 
-
+[charlieapp](https://charlieapp.com/)  
+Charlie combs through 100s of sources and automatically sends you a one‐pager on everyone you’re going to meet with, before you see them  
 ### Concepts
 
 [reWork by Google](https://rework.withgoogle.com)  
