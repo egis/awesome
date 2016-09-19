@@ -28,7 +28,7 @@ Use to override the new unwanted maximise full screen functionality
 [TripMode](https://www.tripmode.ch/) lets you control which apps can use the internet. Especially useful when you're working on a cellular/metered connection.  
 [MobileDay](https://mobileday.com/) on your phone and give it access to your Google Calendar it can dial into conference calls for you. It is very good at detecting the number and password from the calendar invite.  
 [Calendly](https://calendly.com/) connects to your Google calendar so people can book a time with you without having a Google Account.
-[Calendly Chrome Extension](https://chrome.google.com/webstore/detail/google-calendar-guests-mo/hjhicmeghjagaicbkmhmbbnibhbkcfdb?hl=en)   will allow guests to modify calendar appointments by default.
+[Calendly Chrome Extension](https://chrome.google.com/webstore/detail/google-calendar-guests-mo/hjhicmeghjagaicbkmhmbbnibhbkcfdb?hl=en)   will allow guests to modify calendar appointments by default.  
 [The Ultimello](https://chrome.google.com/webstore/detail/ultimello-the-features-pa/hahbfgjfimnmogoinnenhheepfcphnmm)  
 The Ultimello is intended to extend the Trello application with some useful features.  
 
@@ -41,7 +41,7 @@ The Ultimello is intended to extend the Trello application with some useful feat
 [Enterprise Sales Guide](http://www.enterprisesales.nyc/)  
 [Beginners Guide to SEO](https://moz.com/beginners-guide-to-seo)  
 [firstround.com](http://firstround.com/review/)  
-[social triggers)(http://socialtriggers.com/)  
+[social triggers](http://socialtriggers.com/)  
 [blog.close.io](http://blog.close.io/)  
 
 
