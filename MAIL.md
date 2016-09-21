@@ -20,7 +20,7 @@ Charlie combs through 100s of sources and automatically sends you a one‐pager 
  FollowUp.cc helps you send better, more personal email at the optimal time – which ultimately results in you sending less email.  
  
  
- ## Services
+## Services
  
  [unroll.me](https://unroll.me/)
 
@@ -56,7 +56,6 @@ Charlie combs through 100s of sources and automatically sends you a one‐pager 
 1. Scroll down to the **Conversation View** section (stay in the "General" tab).
 1. Choose Conversation view **on** or Conversation view **off**
 1. Click Save changes at the bottom of the page.
-2. 
 
 ### Prioritize Unread Emails
 
