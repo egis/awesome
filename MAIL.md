@@ -8,6 +8,7 @@ Try out [inbox](https://www.google.com/inbox/) for google's new UI.
 [Mixmax](https://mixmax.com/)  
 The productivity suite for sales, Track, automate, and enhance your emails  
 [Boomerang](http://www.boomeranggmail.com/)  
+[gmelius](https://gmelius.com/)  
 [Hubspot](https://chrome.google.com/webstore/detail/hubspot-sales/oiiaigjnkhngdbnoookogelabohpglmd?hl=en)  
 [FullContact](fullcontact.com)  
 All your contacts in one place & automatically up-to-date  
