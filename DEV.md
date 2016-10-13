@@ -9,6 +9,7 @@
 
 [CSS Guidelines](http://cssguidelin.es/)  
 [Java Guidelines](https://google.github.io/styleguide/javaguide.html)  
+[SQL Guidelines](http://www.sqlstyle.guide/)  
 [JS Semistandard](https://github.com/Flet/semistandard)  
 [idiomatic.js](https://github.com/rwaldron/idiomatic.js)  
 [superhero.js](http://superherojs.com/)  
@@ -51,3 +52,10 @@ the simple and quick editor for crontab expressions
 ## Sharing
 [Instant terminal sharing](https://tmate.io/)  
 [Floobits: Cross-editor real-time collaboration](https://floobits.com/) 
+
+## Training
+[Wes Bos](http://wesbos.com/courses/)  
+[Google Interview University](https://github.com/jwasham/google-interview-university)  
+[dev-resources](https://github.com/Ibrahim-Islam/dev-resource)  
+[Linux Academy](https://linuxacademy.com/)  
+
