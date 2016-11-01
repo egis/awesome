@@ -58,7 +58,9 @@ A quick 34 minute mini course for anyone who is looking to learn markdown for th
 
 [Online Markdown Guide](https://guides.github.com/features/mastering-markdown/)  
 [Printable Markdown cheat sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  
-[MacDown](http://macdown.uranusjr.com/)  
+[MacDown (MacOSX)](http://macdown.uranusjr.com/)  
+[Markdownpad (Windows)](http://markdownpad.com)  
+[typora](http://www.typora.io/)  
 
 ### Awesome Lists
 
