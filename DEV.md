@@ -58,4 +58,4 @@ the simple and quick editor for crontab expressions
 [Google Interview University](https://github.com/jwasham/google-interview-university)  
 [dev-resources](https://github.com/Ibrahim-Islam/dev-resource)  
 [Linux Academy](https://linuxacademy.com/)  
-
+[Javascript Essentials](https://github.com/wix/javascript-essentials)  
