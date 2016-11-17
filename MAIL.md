@@ -60,7 +60,7 @@ Charlie combs through 100s of sources and automatically sends you a one‐pager 
 
 ### Prioritize Unread Emails
 
-<img src="https://www.process.st/wp-content/uploads/2016/05/Screenshot-2016-05-02-15.38.07.png">
+![](https://www.process.st/wp-content/uploads/2016/05/Screenshot-2016-05-02-15.38.07.png)
 
 ### Filters
 
@@ -82,11 +82,11 @@ If you aren’t familiar with archiving, it’s about time you learned. When you
 
 Send and Archive makes this process even easier. Just enable it from the General Settings:
 
-<img src="https://www.process.st/wp-content/uploads/2016/05/Screenshot-2016-05-02-15.47.30.png">
+![](https://www.process.st/wp-content/uploads/2016/05/Screenshot-2016-05-02-15.47.30.png)
 
 You’ll now have two “Send” buttons when you reply to emails. Send and Archive is the blue button and will be used by default when you use a keyboard shortcut to send an email. Once sent, the entire conversation is archived. All that empty white space in your inbox will make it easier to focus on the emails that matter.
 
-<img src="https://www.process.st/wp-content/uploads/2016/05/Screenshot-2016-05-02-15.50.55.png">
+![](https://www.process.st/wp-content/uploads/2016/05/Screenshot-2016-05-02-15.50.55.png)
 
 
 ### Auto Advance
