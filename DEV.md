@@ -27,6 +27,9 @@
 [betwixt](https://github.com/kdzwinel/betwixt) Use Chrome DevTools network panel to inspect all network traffic  
 [HAR Viewer](http://ericduran.github.io/chromeHAR/)  
 
+## Security
+[100 infosec resources](https://hackerlists.com/infosec-resources/)  
+
 ### Helpers
 [Showthedocs](http://showthedocs.com/)  
 browse documentation by pasting code/query  
