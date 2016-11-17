@@ -33,7 +33,8 @@ Chrome extension for Screen Video Recording
 Record and share your terminal sessions, the right way  
 [Clarify](http://www.clarify-it.com/)  
 Perfect for when screenshots will speak louder than words  
-[CamStudio (Windows)](http://camstudio.org/)
+[CamStudio (Windows)](http://camstudio.org/)  
+[imgur screenshot uploader - MacOSX](https://itunes.apple.com/us/app/img.urls/id542209299?ls=1&mt=12)  
 
 ### Concepts
 
