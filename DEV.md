@@ -25,7 +25,7 @@
 [Edge adapter for Chrome Dev Tools](https://github.com/Microsoft/edge-diagnostics-adapter)  
 [Fiddler2](https://www.telerik.com/download/fiddler/fiddler2) [Windows only] inspect network traffic  
 [betwixt](https://github.com/kdzwinel/betwixt) Use Chrome DevTools network panel to inspect all network traffic  
-[HAR Viewer](http://ericduran.github.io/chromeHAR/)  
+[HAR Viewer](http://www.softwareishard.com/har/viewer/)  
 
 ## Security
 [100 infosec resources](https://hackerlists.com/infosec-resources/)  
