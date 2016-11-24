@@ -1,3 +1,10 @@
+
+
+## Reference Guides
+[visual css reference](http://cssreference.io/)  
+[devdocs](http://devdocs.io/)  
+
+
 ## Guides
 
 [CSS Guidelines](http://cssguidelin.es/)  
@@ -35,7 +42,6 @@
 browse documentation by pasting code/query  
 [Explainshell](http://www.explainshell.com/)  
 type a command-line to see the help text  
-[DevDocs](http://devdocs.io/)  
 [RegExr: Learn, Build, & Test RegEx](http://regexr.com/)  
 [crontab guru](http://crontab.guru)  
 the simple and quick editor for crontab expressions  
