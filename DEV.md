@@ -51,6 +51,12 @@ the simple and quick editor for crontab expressions
 [Floobits: Cross-editor real-time collaboration](https://floobits.com/) 
 
 ## Learning
+
+[pluralsight](https://www.pluralsight.com/)  
+[edx](https://www.edx.org/)  
+[coursera](https://www.coursera.org/)  
+[udemy](https://www.udemy.com)  
+[udacity](https://www.udacity.com)  
 [Essential Skils for Agile Developement - Java](http://elliottback.com/wp/wp-content/essential-skills-for-agile-development.pdf)  
 [ministryoftesting](https://dojo.ministryoftesting.com/)  
 [learnenough](https://www.learnenough.com/)  
