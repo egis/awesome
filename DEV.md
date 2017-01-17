@@ -3,7 +3,7 @@
 ## Reference Guides
 [visual css reference](http://cssreference.io/)  
 [devdocs](http://devdocs.io/)  
-
+[Postgres Guide](http://www.postgresguide.com/)  
 
 ## Guides
 
@@ -14,17 +14,21 @@
 [idiomatic.js](https://github.com/rwaldron/idiomatic.js)  
 [superhero.js](http://superherojs.com/)  
 
-## Build Tools
+## Tools
+[Instant terminal sharing](https://tmate.io/)  
+[Floobits: Cross-editor real-time collaboration](https://floobits.com/) 
+[Sublime Tutor](https://sublimetutor.com/)  
+
+### Build Tools
 [devd ](https://github.com/cortesi/devd) A local webserver for developers  
 [chokidar](https://github.com/kimmobrunfeldt/chokidar-cli) Run a command when a file changes  
 [Overcommit](https://github.com/brigade/overcommit) A fully extendable and configurable git hook manager  
 
-## Clients
+### Clients
 [Insomnia REST](https://insomnia.rest/)  
 [Paw – The most advanced HTTP client for Mac](https://luckymarmot.com/paw)   
 
-
-## Debugging
+### Debugging
 
 [Remote chrome debugging](https://developer.chrome.com/devtools/docs/debugging-clients#chrome-remote-interface)  
 [Devtools Remote](https://devtoolsremote.com/) Debug your browser tabs remotely  
@@ -32,12 +36,11 @@
 [Edge adapter for Chrome Dev Tools](https://github.com/Microsoft/edge-diagnostics-adapter)  
 [Fiddler2](https://www.telerik.com/download/fiddler/fiddler2) [Windows only] inspect network traffic  
 [betwixt](https://github.com/kdzwinel/betwixt) Use Chrome DevTools network panel to inspect all network traffic  
+
+### Online Tools/Helpers
+[json.browse()](https://jsonbrowse.com/)  
 [HAR Viewer](http://www.softwareishard.com/har/viewer/)  
-
-## Security
-[100 infosec resources](https://hackerlists.com/infosec-resources/)  
-
-### Helpers
+[sqlfiddle](http://sqlfiddle.com/)   
 [Showthedocs](http://showthedocs.com/)  
 browse documentation by pasting code/query  
 [Explainshell](http://www.explainshell.com/)  
@@ -46,11 +49,25 @@ type a command-line to see the help text
 [crontab guru](http://crontab.guru)  
 the simple and quick editor for crontab expressions  
 
-## Sharing
-[Instant terminal sharing](https://tmate.io/)  
-[Floobits: Cross-editor real-time collaboration](https://floobits.com/) 
 
 ## Learning
+
+### SQL
+
+[Mode Analytics SQL Tutorial](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)  
+[Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql)  
+[Vertabelo Academy](https://academy.vertabelo.com/)  
+[hackerlists - 50 sql courses](https://hackerlists.com/learn-sql-online/)  
+
+**Interactive Tutorials**  
+[pgexercises.com](https://pgexercises.com/)  
+[GalaXQL](http://sol.gfxile.net/g3/)  
+[sqlbolt](https://sqlbolt.com/)  
+
+
+### Security
+[100 infosec resources](https://hackerlists.com/infosec-resources/)  
+
 
 [pluralsight](https://www.pluralsight.com/)  
 [edx](https://www.edx.org/)  
@@ -69,4 +86,3 @@ the simple and quick editor for crontab expressions
 [dev-resources](https://github.com/Ibrahim-Islam/dev-resource)  
 [Linux Academy](https://linuxacademy.com/)  
 [Javascript Essentials](https://github.com/wix/javascript-essentials)  
-[hackerlists - 50 sql courses](https://hackerlists.com/learn-sql-online/)  
