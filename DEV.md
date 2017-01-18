@@ -68,21 +68,31 @@ the simple and quick editor for crontab expressions
 ### Security
 [100 infosec resources](https://hackerlists.com/infosec-resources/)  
 
+### MOOCs
 
 [pluralsight](https://www.pluralsight.com/)  
 [edx](https://www.edx.org/)  
 [coursera](https://www.coursera.org/)  
 [udemy](https://www.udemy.com)  
 [udacity](https://www.udacity.com)  
+
+### Front End
+
+[frontend master](https://frontendmasters.com/workshops/)  
+[Wes Bos](http://wesbos.com/courses/)  
+[nodecasts](https://courses.nodecasts.io/courses)  
+[Javascript Essentials](https://github.com/wix/javascript-essentials)   
+
+### Ops
+[shortcutfoo](https://www.shortcutfoo.com)  
+[Linux Academy](https://linuxacademy.com/)  
+
+### Other 
 [Essential Skils for Agile Developement - Java](http://elliottback.com/wp/wp-content/essential-skills-for-agile-development.pdf)  
 [ministryoftesting](https://dojo.ministryoftesting.com/)  
-[learnenough](https://www.learnenough.com/)  
-[frontend master](https://frontendmasters.com/workshops/)   
+[learnenough](https://www.learnenough.com/)   
 [devasts](https://www.devcasts.io)  
-[nodecasts](https://courses.nodecasts.io/courses)  
 [dev resources](https://github.com/Ibrahim-Islam/dev-resource)  
-[Wes Bos](http://wesbos.com/courses/)  
 [Google Interview University](https://github.com/jwasham/google-interview-university)  
 [dev-resources](https://github.com/Ibrahim-Islam/dev-resource)  
-[Linux Academy](https://linuxacademy.com/)  
-[Javascript Essentials](https://github.com/wix/javascript-essentials)  
+
