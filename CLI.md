@@ -32,6 +32,7 @@ To check history network activity: [vnstat](http://humdi.net/vnstat/man/vnstat.h
 #### Monitoring
 Alternatives to top: htop, [dstat](http://dag.wiee.rs/home-made/dstat/), [glances](https://github.com/nicolargo/glances)  
 To keep restarting a process when it ends: [psy](https://github.com/substack/psy)  
+[A swiss army knife of linux debugging tools](http://jvns.ca/blog/2016/09/17/strange-loop-talk/)  
 
 ### Fortigate
 [CLI](http://docs-legacy.fortinet.com/fgt/handbook/cli_html/index.html)
