@@ -35,7 +35,8 @@
 [IE Adapater for Chrome Dev Tools](https://github.com/Microsoft/IEDiagnosticsAdapter)  
 [Edge adapter for Chrome Dev Tools](https://github.com/Microsoft/edge-diagnostics-adapter)  
 [Fiddler2](https://www.telerik.com/download/fiddler/fiddler2) [Windows only] inspect network traffic  
-[betwixt](https://github.com/kdzwinel/betwixt) Use Chrome DevTools network panel to inspect all network traffic  
+[betwixt](https://github.com/kdzwinel/betwixt) Use Chrome DevTools network panel to inspect all network traffic    
+[A swiss army knife of linux debugging tools](http://jvns.ca/blog/2016/09/17/strange-loop-talk/)  
 
 ### Online Tools/Helpers
 [json.browse()](https://jsonbrowse.com/)  
