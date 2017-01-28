@@ -15,7 +15,6 @@
 [superhero.js](http://superherojs.com/)  
 
 ## Tools
-[Instant terminal sharing](https://tmate.io/)  
 [Floobits: Cross-editor real-time collaboration](https://floobits.com/) 
 [Sublime Tutor](https://sublimetutor.com/)  
 
@@ -36,7 +35,6 @@
 [Edge adapter for Chrome Dev Tools](https://github.com/Microsoft/edge-diagnostics-adapter)  
 [Fiddler2](https://www.telerik.com/download/fiddler/fiddler2) [Windows only] inspect network traffic  
 [betwixt](https://github.com/kdzwinel/betwixt) Use Chrome DevTools network panel to inspect all network traffic    
-[A swiss army knife of linux debugging tools](http://jvns.ca/blog/2016/09/17/strange-loop-talk/)  
 
 ### Online Tools/Helpers
 [json.browse()](https://jsonbrowse.com/)  
@@ -44,14 +42,14 @@
 [sqlfiddle](http://sqlfiddle.com/)   
 [Showthedocs](http://showthedocs.com/)  
 browse documentation by pasting code/query  
-[Explainshell](http://www.explainshell.com/)  
-type a command-line to see the help text  
 [RegExr: Learn, Build, & Test RegEx](http://regexr.com/)  
 [crontab guru](http://crontab.guru)  
 the simple and quick editor for crontab expressions  
 
 
 ## Learning
+
+[OPS.md#learning](OPS.md#learning)  
 
 ### SQL
 
@@ -60,7 +58,7 @@ the simple and quick editor for crontab expressions
 [Vertabelo Academy](https://academy.vertabelo.com/)  
 [hackerlists - 50 sql courses](https://hackerlists.com/learn-sql-online/)  
 
-**Interactive Tutorials**  
+#### Interactive Tutorials
 [pgexercises.com](https://pgexercises.com/)  
 [GalaXQL](http://sol.gfxile.net/g3/)  
 [sqlbolt](https://sqlbolt.com/)  
@@ -83,10 +81,6 @@ the simple and quick editor for crontab expressions
 [Wes Bos](http://wesbos.com/courses/)  
 [nodecasts](https://courses.nodecasts.io/courses)  
 [Javascript Essentials](https://github.com/wix/javascript-essentials)   
-
-### Ops
-[shortcutfoo](https://www.shortcutfoo.com)  
-[Linux Academy](https://linuxacademy.com/)  
 
 ### Other 
 [Essential Skils for Agile Developement - Java](http://elliottback.com/wp/wp-content/essential-skills-for-agile-development.pdf)  
