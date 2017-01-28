@@ -21,7 +21,7 @@
 
 
 ### Online Tools for testing/debugging
-
+[Instant terminal sharing](https://tmate.io/)  
 [Tailtub](https://tailtub.com) Pipe your app and server logs to TailTub  
 [Teleconsole](https://www.teleconsole.com/) Share your terminal in seconds  
 [ngrok](https://ngrok.com/) secure introspectable tunnels to localhost  
@@ -56,6 +56,7 @@ Let's focus on the human aspects of running infrastructure
 [awesome-shell Guides](https://github.com/alebcay/awesome-shell#guides)   
 [command line power user](http://commandlinepoweruser.com/)  
 A video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.  
+[Linux Academy](https://linuxacademy.com/)  
 [linuxjourney](https://linuxjourney.com/)  
 [sysadmincasts](https://sysadmincasts.com/)  
 [servers for hackers](https://serversforhackers.com)  
@@ -66,6 +67,8 @@ A video series for web developers on learning a modern command line workflow wit
 [pgexercises](https://pgexercises.com/)  
 [Commandline Challenge](https://cmdchallenge.com)  
 [shortcutfoo](https://www.shortcutfoo.com/)  
+[Explainshell](http://www.explainshell.com/)  
+type a command-line to see the help text  
 
 ### Networking
 To capture network traffic: [justsniffer]( http://justniffer.sourceforge.net) or [tcpdump](http://www.thegeekstuff.com/2010/08/tcpdump-command-examples/)  
@@ -76,6 +79,12 @@ To check history network activity: [vnstat](http://humdi.net/vnstat/man/vnstat.h
 Alternatives to top: htop, [dstat](http://dag.wiee.rs/home-made/dstat/), [glances](https://github.com/nicolargo/glances)  
 To keep restarting a process when it ends: [psy](https://github.com/substack/psy)  
 [A swiss army knife of linux debugging tools](http://jvns.ca/blog/2016/09/17/strange-loop-talk/)  
+
+[Brendan Gregg Portfolio](http://www.brendangregg.com/portfolio.html)
+Everything you could ever want to know on linux performance monitoring and optimization.  
+[Julia Evans](http://jvns.ca/)  
+[Linux Performance Analysis in 60 seconds](http://techblog.netflix.com/2015/11/linux-performance-analysis-in-60s.html)  
+
 
 ### Fortigate
 [CLI](http://docs-legacy.fortinet.com/fgt/handbook/cli_html/index.html)
@@ -95,9 +104,3 @@ Restart: `execute reboot`
 To list java processes: `jps`  
 To take a stack trace: `jstack <pid>`  
 To take a memory dump: `jmap  -dump:format=b,file=heap.bin`  
-
-### Performance Monitoring
-[Brendan Gregg Portfolio](http://www.brendangregg.com/portfolio.html)
-Everything you could ever want to know on linux performance monitoring and optimization.  
-[Julia Evans](http://jvns.ca/)  
-[Linux Performance Analysis in 60 seconds](http://techblog.netflix.com/2015/11/linux-performance-analysis-in-60s.html)  
