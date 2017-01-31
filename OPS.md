@@ -23,6 +23,7 @@
 ### Online Tools for testing/debugging
 [Instant terminal sharing](https://tmate.io/)  
 [Tailtub](https://tailtub.com) Pipe your app and server logs to TailTub  
+[termbin](http://termbin.com/) command line pastebin  
 [Teleconsole](https://www.teleconsole.com/) Share your terminal in seconds  
 [ngrok](https://ngrok.com/) secure introspectable tunnels to localhost  
 [now](https://zeit.co/now) realtime global deployments:  Every time you deploy a project, now will provide you with a new, unique URL  
