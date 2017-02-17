@@ -90,10 +90,18 @@ Everything you could ever want to know on linux performance monitoring and optim
 ### Fortigate
 [CLI](http://docs-legacy.fortinet.com/fgt/handbook/cli_html/index.html)
 
-Packet Sniffing: 
+**Packet Sniffing**
 ```
 diagnose sniffer packet any "host 191.9.110.207 or host 10.0.1.2 
 diag sys session list
+```
+**Policy Tracing**  
+```
+diagnose debug enable
+diagnose debug flow show console enable
+diagnose debug flow filter “host x.x.x.x”
+diagnose debug flow show function-name enable
+diagnose debug flow trace start “N” : (where N is the number of flow to show)
 ```
 Ping: `execute ping x.x.x.x`  
 System Status: `get sys perf top` or `get sys perf status`  
