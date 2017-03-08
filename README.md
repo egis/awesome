@@ -23,7 +23,10 @@ See [editing](https://help.github.com/articles/editing-files-in-another-user-s-r
 Great for adding Application shortcuts / hotkeys  
 [BetterTouchTool](https://www.boastr.net/)  
 Use to override the new unwanted maximise full screen functionality
-  
+
+### Chrome
+
+[Chrome Extenstion for testing PaperTrail API] https://restlet.com/modules/client/
 
 ### Screenshot / Screencasting
 
